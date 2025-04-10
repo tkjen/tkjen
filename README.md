@@ -1,13 +1,18 @@
+
 <p align="center">
   <a href="https://git.io/streak-stats">
+      <img 
+      src="https://github-readme-stats.vercel.app/api?username=tkjen&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=true"    />
     <img 
-      src="https://github-readme-streak-stats-salesp07.vercel.app?user=tkjen&theme=android-dark&hide_border=true&locale=ja&date_format=j%2Fn%5B%2FY%5D" 
+      src="https://nirzak-streak-stats.vercel.app/?user=tkjen&theme=shadow_green&hide_border=true" 
       alt="GitHub Streak" 
     />
+  
   </a>
 </p>
 
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- GitHub Stats 
 <p align="center">
