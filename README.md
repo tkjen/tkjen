@@ -1,16 +1,20 @@
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-      <img 
-      src="https://github-readme-stats.vercel.app/api?username=tkjen&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=true"    />
+  <a href="https://github.com/tkjen">
     <img 
-      src="https://nirzak-streak-stats.vercel.app/?user=tkjen&theme=shadow_green&hide_border=true" 
-      alt="GitHub Streak" 
+      src="https://github-readme-stats.vercel.app/api?username=tkjen&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=true&show_icons=true"
+      alt="tkjen's GitHub stats"
+      height="165"
     />
-  
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="https://nirzak-streak-stats.vercel.app/?user=tkjen&theme=shadow_green&hide_border=true"
+      alt="GitHub Streak"
+      height="165"
+    />
   </a>
 </p>
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
